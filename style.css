@@ -1,3 +1,7 @@
+body {
+    background-color: red;
+    padding-bottom: 30px;
+  }
 .jumbotron h1 {
     color: white;
 	font-size: 75px;
